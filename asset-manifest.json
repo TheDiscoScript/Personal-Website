@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.2d0cc554.chunk.css",
+    "main.js": "/Personal-Website/static/js/main.5dd3a5b7.chunk.js",
+    "main.js.map": "/Personal-Website/static/js/main.5dd3a5b7.chunk.js.map",
+    "runtime-main.js": "/Personal-Website/static/js/runtime-main.a93d8b9b.js",
+    "runtime-main.js.map": "/Personal-Website/static/js/runtime-main.a93d8b9b.js.map",
+    "static/js/2.5c2e6525.chunk.js": "/Personal-Website/static/js/2.5c2e6525.chunk.js",
+    "static/js/2.5c2e6525.chunk.js.map": "/Personal-Website/static/js/2.5c2e6525.chunk.js.map",
+    "index.html": "/Personal-Website/index.html",
+    "static/css/main.2d0cc554.chunk.css.map": "/Personal-Website/static/css/main.2d0cc554.chunk.css.map",
+    "static/js/2.5c2e6525.chunk.js.LICENSE.txt": "/Personal-Website/static/js/2.5c2e6525.chunk.js.LICENSE.txt",
+    "static/media/AstrImg.e5f8522b.png": "/Personal-Website/static/media/AstrImg.e5f8522b.png",
+    "static/media/calcImg.eacab42e.png": "/Personal-Website/static/media/calcImg.eacab42e.png",
+    "static/media/cvImg.c46c682a.png": "/Personal-Website/static/media/cvImg.c46c682a.png",
+    "static/media/cvProgrammingCZ.dd3503b9.pdf": "/Personal-Website/static/media/cvProgrammingCZ.dd3503b9.pdf",
+    "static/media/cvProgrammingENG.fd1976d9.pdf": "/Personal-Website/static/media/cvProgrammingENG.fd1976d9.pdf",
+    "static/media/etchImg.6beb3f01.png": "/Personal-Website/static/media/etchImg.6beb3f01.png",
+    "static/media/memoryImg.27ea3f05.png": "/Personal-Website/static/media/memoryImg.27ea3f05.png",
+    "static/media/restImg.f9b4c69c.png": "/Personal-Website/static/media/restImg.f9b4c69c.png",
+    "static/media/shopImg.d232d33b.png": "/Personal-Website/static/media/shopImg.d232d33b.png",
+    "static/media/todoImg.96c84293.png": "/Personal-Website/static/media/todoImg.96c84293.png",
+    "static/media/weatherImg.7a83b34f.png": "/Personal-Website/static/media/weatherImg.7a83b34f.png",
+    "static/media/webImg.1021b9fd.png": "/Personal-Website/static/media/webImg.1021b9fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a93d8b9b.js",
+    "static/js/2.5c2e6525.chunk.js",
+    "static/css/main.2d0cc554.chunk.css",
+    "static/js/main.5dd3a5b7.chunk.js"
+  ]
+}
