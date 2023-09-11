@@ -70,7 +70,7 @@ const Contact = (props) => {
 
         <Typography variant="h3">
           <a
-            href="https://github.com/Willdooo"
+            href="https://github.com/TheDiscoScript"
             target="_blank"
             rel="noreferrer"
           >

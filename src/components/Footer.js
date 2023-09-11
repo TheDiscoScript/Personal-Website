@@ -20,13 +20,13 @@ const Footer = (props) => {
     <div className={classes.footer}>
       {input.created} |
       <IconButton
-        href="https://github.com/Willdooo"
+        href="https://github.com/TheDiscoScript"
         target="_blank"
         rel="noreferrer"
       >
         <FaGithub style={{ color: "#f8efd4" }} />{" "}
       </IconButton>
-      Willdooo
+      TheDiscoScript
     </div>
   );
 };

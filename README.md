@@ -26,8 +26,8 @@ npm start
 
 👤 **Daniel Wollmann**
 
-- Website: https://willdooo.github.io/Personal-Website/
-- Github: [@Willdooo](https://github.com/Willdooo)
+- Website: https://thediscoscript.github.io/Personal-Website/
+- Github: [@TheDiscoScript](https://github.com/TheDiscoScript)
 - LinkedIn: [@linkedinlink](https://linkedin.com//in/daniel-wollmann)
 
 ## Show your support
